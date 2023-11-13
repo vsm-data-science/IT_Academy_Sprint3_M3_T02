@@ -4,7 +4,7 @@ Info
 DataFrame Airlines Delay
 La información resumida sobre la cantidad de vuelos puntuales, retrasados, cancelados y desviados aparece en el Informe mensual del consumidor de viajes aéreos del DOT, publicado aproximadamente 30 días después de fin de mes, así como en las tablas de resumen publicadas en este sitio web. BTS comenzó a recopilar detalles sobre las causas de los retrasos en los vuelos en junio de 2003. Las estadísticas resumidas y los datos sin procesar se ponen a disposición del público en el momento en que se publica el Informe del Consumidor de Viajes Aéreos.
 
-Descripción columnas
+Descripción columnas  
 Unnamed: 0: Es una columna con un índice numérico de los registros.
 Year: El año de la fecha del vuelo.
 Month: El mes de la fecha del vuelo.
